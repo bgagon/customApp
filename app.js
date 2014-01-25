@@ -2,6 +2,8 @@
 /**
  * Module dependencies.
  */
+ 
+ /* add the entry point */
 
 var express = require('express');
 var routes = require('./routes');
